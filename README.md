@@ -85,3 +85,12 @@ If no prompt is provided, the script uses:
 tattoo design concept art, bold black ink linework, intricate detailed illustration, clean lines, black and white tattoo sketch, fine line tattoo style, ready for skin
 ```
 
+## Example Output
+
+```bash
+node tattoodesigngenerator.js "tattoo design concept art, bold black ink linework, intricate detailed illustration, clean lines, black and white tattoo sketch, fine line tattoo style, ready for skin"
+```
+
+![Example output](https://oss.talesofai.cn/picture/fdc45fc6-a4dc-4e62-a1be-9634774c8586.webp)
+
+> Prompt: *"tattoo design concept art, bold black ink linework, intricate detailed illustration, clean lines, black and white tattoo sketch, fine line tattoo style, ready for skin"*
